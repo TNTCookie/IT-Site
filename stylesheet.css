@@ -1,0 +1,145 @@
+body {
+	margin: 0px;
+}
+
+#foot {
+	font-size: 90px;
+}
+
+.header{
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	background: #1D2730;
+	padding: 20px;
+}
+
+#bottom {
+	margin-bottom: 8px;	
+}
+
+#footer {
+	margin-top: 8px;
+}
+
+.big {
+	color: white;
+	font-size: 120px;
+	font-family: 'Raleway', sans-serif;
+	display: inline;
+	width: 70%;
+}
+
+#logo {
+	display: inline;
+	height: 13%;
+	width: 13%;
+	margin-left: 325px;
+	margin-top: -10px;
+	margin-bottom: -45px;
+}
+
+#logo2 {
+	display: inline;
+	height: 10%;
+	width: 10%;
+	margin-left: 50px;
+	margin-bottom: -30px;
+}
+
+table, td {
+	margin-top: 5px;
+	border-collapse: collapse;
+	border: 0.5px solid white;
+	width: 98%;
+}
+
+#bar {
+	margin-left: -6px;
+	table-layout: fixed;
+}
+
+#template, #template tr, {
+	border-collapse: collapse;
+}
+
+#template {
+	margin-left: 14px;	
+	table-layout: fixed;
+}
+
+#t1 {
+	border-left: 2px solid white;
+	border-top: 2px solid white;
+	border-right: 2px solid #A81010;
+	border-bottom: 2px solid #A81010;
+}
+
+#t2 {
+	border-right: 2px solid white;
+	border-top: 2px solid white;
+	border-bottom: 2px solid #A81010;
+}
+
+#t3 {
+	border-left: 2px solid white;
+	border-bottom: 2px solid white;
+	border-right: 2px solid #A81010;
+}
+
+#t4 {
+	border-right: 2px solid white;
+	border-bottom: 2px solid white;
+}
+
+#t4 p {
+	margin-left: 90px;
+}
+
+.nav {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	font-size: 22px;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
+
+#slideshow { 
+    margin: auto auto; 
+    position: relative; 
+    width: 240px; 
+    height: 240px;
+    padding-bottom: 90px;
+    padding-right: 80px;
+}
+
+#slideshow > div { 
+    position: absolute;
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+}
+
+#slideshow img {
+	height: 300px;
+	width: 400px;
+}
+
+video {
+	padding-top: 12px;
+	padding-bottom: 10px;
+	margin: auto auto;
+	height: 350px;
+	display: block;
+}
+
+p {
+	font-family: "Open Sans", sans-serif;
+}
